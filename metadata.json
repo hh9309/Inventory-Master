@@ -1,0 +1,5 @@
+{
+  "name": "库存导师 - 存储论交互导航器",
+  "description": "一个模仿NashNavigator风格的存储论交互式分析工具，支持五大经典库存模型，包含动态图表模拟与AI智能决策洞察。",
+  "requestFramePermissions": []
+}
